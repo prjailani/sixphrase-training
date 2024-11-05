@@ -1,0 +1,1 @@
+In a seating arrangement array when the alloted number is odd then add one space (i.e., 0 after him) otherwise if even add 2 spaces after him in a classroom.
