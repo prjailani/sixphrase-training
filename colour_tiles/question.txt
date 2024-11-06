@@ -1,0 +1,3 @@
+Understanding - Given N tiles ; select a subset of tiles;rearrange them any way you want -> finally tell the longest subset possible after joining all the tiles of your selected subset 
+
+“Two tiles can only be joined if they have the same adjacent color and no tile can be rotated.” 
