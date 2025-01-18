@@ -1,0 +1,1 @@
+Without converting the number to String or Array write the program the number as we read.
